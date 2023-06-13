@@ -1,17 +1,19 @@
 
 <h1>why</h1>
-This project is created for Coderdojo Lier, more specific for the event "Supervlieg" aimed at entertaining childern age 4-12yrs. 
+This project is created for Coderdojo Lier. <br>
+More specific for the event "Supervlieg" in the city of Lier (Belgium) aimed at entertaining children age 4-12yrs. 
 <br>
 <h1>what</h1>
-Paper planes are shot from a launching system controlled by a microbit to a wall with a round opening (the sound barrier) when the paper plane gets through, it is detected by a laser, controlled by an arduino nano.
-This sends a serial message that plays som cool sounding sound effects.
+Paper planes folded by the chilren are shot from a launching system controlled by a microbit. They are aimed
+at a wall with a round opening (the sound barrier).  If the paper plane gets through the hole, it is detected by a laser, controlled by an arduino nano.
+It then shows some light effects and sends a serial message to an attached PC that plays some cool sounding sound effects.
 <br>
-<h1>how<h1>
+<h1>how</h1>
 The content is:
 <ul>
 <li>this README.md</li>
-<li>An arduino ino file that controls the laser-detector and some neopixel leds</li>
-<li>a small python that reads serial output from the arduino and plys cool sounds<li>
+<li>An arduino .ino file that controls the laser-detector and some neopixel leds</li>
+<li>a small python program that reads serial output from the arduino and plays cool sounds<li>
 <li>example sound effects from <a href="https://pixbay.com">pixbay.com</a></li>
 </lu>
 
